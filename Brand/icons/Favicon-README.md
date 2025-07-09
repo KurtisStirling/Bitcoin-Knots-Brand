@@ -13,14 +13,14 @@
 
 2. Add the following code inside the `<head>` section of your pages:
 
-\```html
+```html
 <link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
 <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
 <link rel="shortcut icon" href="/favicon/favicon.ico" />
 <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
 <meta name="apple-mobile-web-app-title" content="Knots" />
 <link rel="manifest" href="/favicon/site.webmanifest" />
-\```
+```
 
 ---
 
@@ -32,7 +32,7 @@ Qt applications typically use `.ico` files on Windows and `.png` files on other 
 
 2. Set the window icon in your code:
 
-\```cpp
+```cpp
 #include <QApplication>
 #include <QWidget>
 #include <QIcon>
@@ -46,19 +46,19 @@ int main(int argc, char *argv[]) {
 
     return app.exec();
 }
-\```
+```
 
 3. For system tray icons:
 
-\```cpp
+```cpp
 #include <QSystemTrayIcon>
 
-// ...
+/ ...
 
 QSystemTrayIcon trayIcon;
 trayIcon.setIcon(QIcon(":/icons/favicon.ico"));
 trayIcon.show();
-\```
+```
 
 ---
 
