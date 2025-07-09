@@ -1,9 +1,10 @@
-## Files created 
-using https://realfavicongenerator.net/ with 'knots-favicon-master-1024.png' as input
+## Files created using https://realfavicongenerator.net/ with `knots-favicon-master-1024.png` as the input
+`og-image-1200x630.png` added manually via Figma export
+`favicon-no-background.svg` added manually via Figma export
 
 ## Avatar files for Discord, X etc.
 
-Use this square 512x512 PNG images as the profile picture for official Knots accounts:
+Use this square 512x512 PNG image as the profile picture for official Knots accounts. Crop accordingly:
 
 - `web-app-manifest-512x512.png`  
 
