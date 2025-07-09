@@ -1,17 +1,94 @@
-#Files created using https://realfavicongenerator.net/ and the 'knots-favicon-master-1024.png' file as the input
+# Files created using https://realfavicongenerator.net/ with 'knots-favicon-master-1024.png' as input
 
-## If in doubt, use 'favicon.svg' as this doesn't require masking.
-'favicon-no-background.svg' can also be used if you prefer just the shape, but this doesn't translate well to light mode.
+## Recommended source icons
 
-##How to use in HTML:
+- Use `favicon.svg` if in doubt (no masking required).  
+- `favicon-no-background.svg` can be used for just the shape but may not display well in light mode.
 
-Extract this package in <web site>/favicon/. 
-If your site is http://www.example.com, you should be able to access a file named http://www.example.com/favicon/favicon.ico.
+---
 
-Insert the following code in the <head> section of your pages:
+## How to use in HTML websites
+
+1. Extract the package to `<website-root>/favicon/` (e.g., `https://example.com/favicon/`).
+
+2. Add the following code inside the `<head>` section of your pages:
+
+\```html
 <link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
 <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
 <link rel="shortcut icon" href="/favicon/favicon.ico" />
 <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
 <meta name="apple-mobile-web-app-title" content="Knots" />
 <link rel="manifest" href="/favicon/site.webmanifest" />
+\```
+
+---
+
+## How to use in a C++ application
+
+Qt applications typically use `.ico` files on Windows and `.png` files on other platforms.
+
+1. Add the icon files to your Qt resource file (`.qrc`) or keep them accessible in your app directory.
+
+2. Set the window icon in your code:
+
+\```cpp
+#include <QApplication>
+#include <QWidget>
+#include <QIcon>
+
+int main(int argc, char *argv[]) {
+    QApplication app(argc, argv);
+
+    QWidget window;
+    window.setWindowIcon(QIcon(":/icons/favicon.ico")); // or direct path
+    window.show();
+
+    return app.exec();
+}
+\```
+
+3. For system tray icons:
+
+\```cpp
+#include <QSystemTrayIcon>
+
+// ...
+
+QSystemTrayIcon trayIcon;
+trayIcon.setIcon(QIcon(":/icons/favicon.ico"));
+trayIcon.show();
+\```
+
+---
+
+## How to use for social media platforms (X, Discord, Facebook, LinkedIn, etc.)
+
+Social platforms use *Open Graph images* when sharing your links. 
+See what OG images look like in use: https://preview.ogimage.gallery/?url=github.com
+Learn more about OG images here: https://ogp.me/
+
+1. Use the Open Graph preview image `og-image-1200x630.png`.
+
+2. Add the following Open Graph meta tags inside your `<head>`:
+
+```html
+<meta property="og:title" content="Knots" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://example.com" />
+<meta property="og:image" content="/favicon/og-image-1200x630.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:description" content="Description of your website or product." />
+```
+
+---
+
+## Avatar files for Twitter and X
+
+Use one of these square 512x512 PNG images as your profile picture on Twitter and X:
+
+- `github-avatar-512x512.png`  
+- `slack-avatar.png`
+
+---
