@@ -1,9 +1,11 @@
-# Files created using https://realfavicongenerator.net/ with 'knots-favicon-master-1024.png' as input
+## Files created 
+using https://realfavicongenerator.net/ with 'knots-favicon-master-1024.png' as input
 
-## Recommended source icons
+## Avatar files for Discord, X etc.
 
-- Use `favicon.svg` if in doubt (no masking required).  
-- `favicon-no-background.svg` can be used for just the shape but may not display well in light mode.
+Use this square 512x512 PNG images as the profile picture for official Knots accounts:
+
+- `web-app-manifest-512x512.png`  
 
 ---
 
@@ -62,7 +64,7 @@ trayIcon.show();
 
 ---
 
-## How to use for social media platforms (X, Discord, Facebook, LinkedIn, etc.)
+## How to add full-size banner preview to website for social media sharing previews (X, Discord, Facebook, LinkedIn, etc.)
 
 Social platforms use *Open Graph images* when sharing your links. 
 See what OG images look like in use: https://preview.ogimage.gallery/?url=github.com
@@ -84,11 +86,11 @@ Learn more about OG images here: https://ogp.me/
 
 ---
 
-## Avatar files for Twitter and X
-
-Use one of these square 512x512 PNG images as your profile picture on Twitter and X:
-
-- `github-avatar-512x512.png`  
-- `slack-avatar.png`
-
 ---
+
+## Other uses
+
+- For SVG use `favicon.svg` as this contains black circle background.
+- `favicon-no-background.svg` can be used for just the shape but may not display well in light mode.
+- For high res square PNG use `knots-favicon-master-1024.png`
+
