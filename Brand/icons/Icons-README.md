@@ -12,17 +12,17 @@ Use this square 512x512 PNG image as the profile picture for official Knots acco
 
 ## How to use in HTML websites
 
-1. Extract the package to `<website-root>/favicon/` (e.g., `https://example.com/favicon/`).
+1. Extract the package to `<website-root>/knots-favicon/` (e.g., `https://example.com/knots-favicon/`).
 
 2. Add the following code inside the `<head>` section of your pages:
 
 ```html
-<link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
-<link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
-<link rel="shortcut icon" href="/favicon/favicon.ico" />
-<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+<link rel="icon" type="image/png" href="/knots-favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/knots-favicon/favicon.svg" />
+<link rel="shortcut icon" href="/knots-favicon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/knots-favicon/apple-touch-icon.png" />
 <meta name="apple-mobile-web-app-title" content="Knots" />
-<link rel="manifest" href="/favicon/site.webmanifest" />
+<link rel="manifest" href="/knots-favicon/site.webmanifest" />
 ```
 
 ---
@@ -79,7 +79,7 @@ Learn more about OG images here: https://ogp.me/
 <meta property="og:title" content="Knots" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://example.com" />
-<meta property="og:image" content="/favicon/og-image-1200x630.png" />
+<meta property="og:image" content="/knots-favicon/og-image-1200x630.png" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
 <meta property="og:description" content="Description of your website or product." />
