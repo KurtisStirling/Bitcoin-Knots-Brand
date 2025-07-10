@@ -1,4 +1,4 @@
-## Files created using https://realfavicongenerator.net/ with `knots-favicon-master-1024.png` as the input
+## Files created using https://realfavicongenerator.net/ with `knots-icon-master-1024.png` as the input
 `og-image-1200x630.png` added manually via Figma export
 `favicon-no-background.svg` added manually via Figma export
 
@@ -91,7 +91,7 @@ Learn more about OG images here: https://ogp.me/
 
 ## Other uses
 
-- For SVG use `favicon.svg` as this contains black circle background.
-- `favicon-no-background.svg` can be used for just the shape but may not display well in light mode.
-- For high res square PNG use `knots-favicon-master-1024.png`
+- For SVG Glyph with no background, use `knots-glyph.svg`
+- For SVG use `knots-icon-master-1024.svg` or `favicon.svg` as this contains black circle background.
+- For PNG use `knots-icon-master-1024.png`
 
