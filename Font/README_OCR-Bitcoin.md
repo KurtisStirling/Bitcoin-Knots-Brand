@@ -2,7 +2,7 @@ This font is licensed under the MIT License. See LICENSE.txt for details.
 
 # Lineage
 
-## 04 // Orange Manufacturing Group and Kurtis Stirling (2025)
+## 04. Orange Manufacturing Group and Kurtis Stirling (2025)
 We needed a free and open source font for the Bitcoin Knots project, so made this ourselves. See below of previous manufacturers of OCR-B fonts and their statements on copyright and licensing.
 
 What we did:
@@ -17,15 +17,15 @@ What we did:
 * added sats symbol 
 
 
-## 03 // Matthew Skala (2011)
+## 03. Matthew Skala (2011)
 I make no copyright claim on these fonts myself. I do not believe anyone else makes a copyright claim that would conflict with the use of these fonts in a commercial project, but I cannot speak for any party other than myself.
 https://tsukurimashou.org/ocr.pdf
 
-## 02 // Norbert Schwarz (1986)
+## 02. Norbert Schwarz (1986)
 As far as the digitization in METAFONT input which I have developed, you may freely use, modify, and/or distribute any of these files or the resulting fonts, without limitation. A previous release of ocr-b only granted rights for non-commercial use; that restriction is now lifted.
 .https://gb.mirrors.cicku.me/ctan/fonts/ocr-b/README
 
 
-## 01 // Adrian Frutiger (1968)
+## 01. Adrian Frutiger (1968)
 The original OCR-B font was design by Adrian for Monotype, to meet the standards of the European Computer Manufacturers Association (ECMA) and later adopted as the ISO 1073-2:1976 (E) standard. However, specific details about the initial license terms applied by Frutiger or Monotype are not explicitly documented in publicly available sources.
 https://ecma-international.org/wp-content/uploads/ECMA-11_3rd_edition_march_1976.pdf
