@@ -1,8 +1,10 @@
+This font is licensed under the MIT License. See LICENSE.txt for details.
+
 # Lineage
 
 ## Orange Manufacturing Group and Kurtis Stirling (2025)
-We needed a free and open source font for the Bitcoin Knots project, so made this ourselves. 
-This font is licensed under the MIT License. See LICENSE.txt for details.
+We needed a free and open source font for the Bitcoin Knots project, so made this ourselves. See below of previous manufacturers of OCR-B fonts and their statements on copyright and licensing.
+
 What we did:
 * redraw of all glyphs from scratch, polishing and optimising paths in the process
 * used 650 canvas size instead of 723 (to reduce letter spacing)
