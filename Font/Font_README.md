@@ -1,7 +1,9 @@
 # Lineage
 
 ## Orange Manufacturing Group and Kurtis Stirling (2025)
-We needed a free and open source font for the Bitcoin Knots project, so made this ourselves. What we did:
+We needed a free and open source font for the Bitcoin Knots project, so made this ourselves. 
+This font is licensed under the MIT License. See LICENSE.txt for details.
+What we did:
 * redraw of all glyphs from scratch, polishing and optimising paths in the process
 * used 650 canvas size instead of 723 (to reduce letter spacing)
 * thin letters (c, r, t, f, h, x etc) have been widened so less gap when they are near each other, reducing the need for kerning (don't want to do that - want to retain monospacing)
