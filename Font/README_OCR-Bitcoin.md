@@ -11,9 +11,10 @@ What we did:
 * thin letters (c, r, t, f, h, x etc) have been widened so less gap when they are near each other, reducing the need for kerning (don't want to do that - want to retain monospacing)
 * ,.;: etc made thinner... they are still a bit thick, but still a lot better visually than previous versions
 * added MIT licence to metadata
-* added hexidecimal Tonals
+* added hexadecimal Tonals
 * replaced 🪢 with Knots logo
-* added ₿ 
+* added ₿ symbol
+* added sats symbol 
 
 
 ## Matthew Skala (2011)
@@ -27,4 +28,4 @@ As far as the digitization in METAFONT input which I have developed, you may fre
 
 ## Adrian Frutiger (1968)
 The original OCR-B font was design by Adrian for Monotype, to meet the standards of the European Computer Manufacturers Association (ECMA) and later adopted as the ISO 1073-2:1976 (E) standard. However, specific details about the initial license terms applied by Frutiger or Monotype are not explicitly documented in publicly available sources.
-https://ecma-international.org/wp-content/uploads/ECMA-11_3rd_edition_march_1976.pdf (look at this link, it's a pretty awesome 1976 document talking about OCR-B design and use on typewriters) 
+https://ecma-international.org/wp-content/uploads/ECMA-11_3rd_edition_march_1976.pdf
