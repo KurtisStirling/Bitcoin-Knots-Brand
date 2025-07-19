@@ -1,5 +1,7 @@
 This font is licensed under the MIT License. See LICENSE.txt for details.
 
+Warning: this font is not intended for Optical Character Recognition use.
+
 # Lineage
 
 ## 4. Orange Manufacturing Group and Kurtis Stirling (2025)
