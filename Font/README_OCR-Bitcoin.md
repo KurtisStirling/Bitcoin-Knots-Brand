@@ -7,7 +7,7 @@ We needed a free and open source font for the Bitcoin Knots project, so made thi
 
 What we did:
 * redraw of all glyphs from scratch, polishing and optimising paths in the process
-* used 650 canvas size instead of 723 (to reduce letter spacing)
+* used 670 canvas size instead of 723 (to reduce letter spacing)
 * thin letters (c, r, t, f, h, x etc) have been widened so less gap when they are near each other, reducing the need for kerning (don't want to do that - want to retain monospacing)
 * ,.;: etc made thinner... they are still a bit thick, but still a lot better visually than previous versions
 * added MIT licence to metadata
