@@ -16,7 +16,9 @@ What we did:
 * added hexadecimal Tonals
 * replaced 🪢 with Knots logo
 * added ₿ symbol
-* added sats symbol 
+* added sats symbol
+* reduced size of numbers
+* added left and right arrows (now ← ↑ → ↓ all exist)
 
 
 ## 3. Matthew Skala (2011)
