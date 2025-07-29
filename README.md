@@ -1,7 +1,8 @@
 # Brand Assets for Bitcoin Knots
 with rough consensus agreed in Bitcoin Knots Discord #brand channel
 
-<img width="1562" height="1382" alt="image" src="https://github.com/user-attachments/assets/52fe5f2c-5a24-4db0-8156-b247edd8fdc9" />
+<img width="1670" height="1414" alt="image" src="https://github.com/user-attachments/assets/67149e05-fef7-4bf1-9b34-58c57ed3d6d3" />
+
 
 ### Each folder has its own README 
 
