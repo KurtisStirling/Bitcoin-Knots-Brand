@@ -12,5 +12,5 @@ _The "knotted B" shape is a unifying derivative of previous versions by:_
 
   _both independent derivatives of:_
   
-  - The original Bitcoin Knots Logo by **Steven Hay**
+  - The original Bitcoin Knots Logo by **Steven Hay** (~2014)
 
