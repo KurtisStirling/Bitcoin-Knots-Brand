@@ -8,7 +8,7 @@ These assets were created in consultation and rough consensus with members of th
 _The "knotted B" shape used is a unifying derivative of previous versions:_
 
 - **Blissmode** (2025) (thicker, asymmetric) and;
-- **Skylerwww** (2025) (thinner, symmetric)
+- **Skylerwww** (2025) (thinner, symmetric).
 
   _both independent derivatives of:_
   
